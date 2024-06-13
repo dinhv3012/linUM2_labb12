@@ -1,0 +1,8 @@
+# Lokala Qt Creator-inställningar
+*.pro.user
+# Qt build-kataloger
+build-*/
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3b5e238 (Initial commit of Qt project)
