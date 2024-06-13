@@ -1,5 +1,5 @@
 # Lokala Qt Creator-inställningar
 *.pro.user
 # Qt build-kataloger
-build-*/
+build/
 
